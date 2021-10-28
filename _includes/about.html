@@ -1,17 +1,72 @@
 <!-- About -->
-<section class="page-section" id="{{ site.data.sitetext[site.locale].about.section | default: "about" }}">
+<section class="page-section" id="{{ site.data.sitetext[site.locale].about.section | default: " about" }}">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].about.title | default: "About Us" }}</h2>
-        <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].about.text | default: "" }}</h3>
+        <h2 class="section-heading text-uppercase">ABOUT ME</h2>
+
       </div>
     </div>
     <div class="row">
-      <div class="col-lg-8 mx-auto text-center">
-        <div class="large text-muted">{{ site.data.sitetext[site.locale].about.body | markdownify }}</div>
+      <div class="about-item-box">
+        <div class="about-item">
+          <div class="about-item-icon ">
+            <i class="fas fa-user-alt"></i>
+          </div>
+          <div>
+            <div class="about-item-title">이름</div>
+            <div>김진철</div>
+          </div>
+        </div>
+        <div class="about-item">
+          <div class="about-item-icon">
+            <i class="fas fa-calendar"></i>
+          </div>
+          <div>
+            <div class="about-item-title">생년월일</div>
+            <div>1997.02.11</div>
+          </div>
+        </div>
+        <div class="about-item">
+          <div class="about-item-icon">
+            <i class="fas fa-phone-alt"></i>
+          </div>
+          <div>
+            <div class="about-item-title">전화번호</div>
+            <div>010-3049-2521</div>
+          </div>
+        </div>
+        <div class="about-item">
+          <div class="about-item-icon">
+            <i class="fas fa-envelope"></i>
+          </div>
+          <div>
+            <div class="about-item-title">이메일</div>
+            <div>jincheol2578@gmail.com</div>
+          </div>
+        </div>
+        <div class="about-item">
+          <div class="about-item-icon">
+            <i class="fas fa-map-marker-alt"></i>
+          </div>
+          <div>
+            <div class="about-item-title">주소지</div>
+            <div>대구광역시 서구</div>
+          </div>
+        </div>
+        <div class="about-item">
+          <div class="about-item-icon">
+            <i class="fas fa-school"></i>
+          </div>
+          <div>
+            <div class="about-item-title">학력</div>
+            <div class="education">코리아IT아카데미 - 2021<br>- 웹 풀스택 과정<br>대구과학대학교 - 2020<br>- 컴퓨터정보과
+            </div>
+          </div>
+        </div>
       </div>
     </div>
+  </div>
   </div>
 </section>
 <!-- End About -->

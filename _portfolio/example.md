@@ -1,22 +1,25 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
+  title: Alsamo
+  subtitle: 주류정보 공유 커뮤니티 사이트
+  thumbnail: /assets/img/portfolio/main.png
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+title: ALSAMO
+subtitle: 주류정보 공유 커뮤니티 사이트 ALSAMO.
+image: /assets/img/portfolio/main.png
+image2: /assets/img/portfolio/bbs.png
+image3: /assets/img/portfolio/view.png
+image4: /assets/img/portfolio/reply.png
+image5: /assets/img/portfolio/wiki.png
+image6: /assets/img/portfolio/admin1.png
+image7: /assets/img/portfolio/admin2.png
+image8: /assets/img/portfolio/admin3.png
 alt: image alt text
 
 ---
-Use this area to describe your project. **Markdown** supported.
+[http://www.alsamo.ga [바로가기]](http://www.alsamo.ga)  
+[Github [바로가기]](http://www.github.com/jincheol2578/alsamo)
 
-optional info list (delete if not using):
-
-{:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
-
+test ID : alsamo1  
+password : 123456

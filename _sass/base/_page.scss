@@ -69,3 +69,39 @@ img::selection {
 img::-moz-selection {
   background: transparent;
 }
+// ABOUT ME START----------
+.about-item-box {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-content: center;
+  width: 100%;
+  gap: 20px;
+  padding-top: 30px;
+  .about-item {
+    display: flex;
+    width: 100%;
+    text-align: left;
+    .about-item-title {
+      font-size: 20px;
+      font-weight: bold;
+      padding-bottom: 5px;
+    }
+    .education {
+      font-size: 13px;
+    }
+  }
+  .about-item-icon {
+    padding-top: 5px;
+    width: 70px;
+  }
+}
+.fas {
+  font-size: 40px;
+}
+// ABOUT ME END--------
+
+// SKILLS START ----------------
+.skills-image {
+  text-align: center;
+}
+// SKILLS END

@@ -138,3 +138,19 @@
     }
   }
 }
+
+.project-subimg {
+  font-size: 20px;
+  color: white !important;
+  scroll-behavior: smooth;
+}
+
+.modal-body {
+  #modal-subimg {
+    img {
+      margin: 10px;
+      border: #e9e9e9 1px solid;
+      border-radius: 1rem;
+    }
+  }
+}

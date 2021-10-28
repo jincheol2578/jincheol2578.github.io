@@ -12,6 +12,7 @@
 .btn-primary {
   background-color: $primary;
   border-color: $primary;
+  border-radius: 3rem;
   &:active,
   &:focus,
   &:hover {
