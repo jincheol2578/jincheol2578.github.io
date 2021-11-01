@@ -130,7 +130,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "CONTACT ME"
-    text: "Lorem ipsum or call 123456789"
+    text: "많은 연락 부탁드립니다."
     section: contact
     name: "이름"
     name-validation: "이름을 입력해주세요."
