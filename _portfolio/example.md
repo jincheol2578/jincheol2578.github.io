@@ -21,5 +21,10 @@ alt: image alt text
 [http://www.alsamo.ga [바로가기]](http://www.alsamo.ga)  
 [Github [바로가기]](http://www.github.com/jincheol2578/alsamo)
 
-test ID : alsamo1  
+
+- 테스트 아이디 -
+test ID : test
 password : 123456
+
+자유롭게 사용해 주세요.
+
