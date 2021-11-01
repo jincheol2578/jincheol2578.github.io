@@ -22,9 +22,8 @@ alt: image alt text
 [Github [바로가기]](http://www.github.com/jincheol2578/alsamo)
 
 
-- 테스트 아이디 -
-test ID : test
-password : 123456
+테스트 아이디 입니다.  
+test ID : test  
+password : 123456  
 
 자유롭게 사용해 주세요.
-
